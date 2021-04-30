@@ -1,6 +1,6 @@
 ## python--算法（第4版）
 使用python实现[《算法4》](https://book.douban.com/subject/19952400/)所有算例。
-<img src="https://github.com/MrZhangKY/python--Algorithms-Fouth-Edition/blob/main/Graphs/0.Jpeg" style="zoom:1%;" />
+<img src="https://github.com/MrZhangKY/python--Algorithms-Fouth-Edition/blob/main/Graphs/0.Jpeg" width = 50% height = 50% />
 
 ## 名言警句摘录
 * 我们关注的大多数算法都需要适当地组织数据，而为了组织数据就产生了数据结构，我们的观点是数据结构是算法的副产品或是结果，因此要理解算法必须学习数据结构。
