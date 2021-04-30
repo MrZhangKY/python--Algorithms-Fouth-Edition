@@ -19,3 +19,5 @@
 * 将一个程序的输出重定向为另一个程序的输入叫做管道。
 
    <img src="https://github.com/MrZhangKY/python--Algorithms-Fouth-Edition/blob/main/Graphs/1.png" width = 30% height = 30%  />
+
+* 数据抽象也被称为面向对象编程，主要思想是鼓励程序定义自己的数据类型（一系列值和对这些值的操作），而不仅仅是那些操作预定义的数据类型的静态方法。
