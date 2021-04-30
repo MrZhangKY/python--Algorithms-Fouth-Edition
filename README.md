@@ -1,4 +1,7 @@
+# 请支持正版！
+
 ## python--算法（第4版）
+
 使用python实现[《算法4》](https://book.douban.com/subject/19952400/)所有算例。
 
 <img src="https://github.com/MrZhangKY/python--Algorithms-Fouth-Edition/blob/main/Graphs/0.Jpeg" width = 30% height = 30% />
