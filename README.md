@@ -13,4 +13,4 @@
   * 明确静态方法库和与之对应的 API（或者多个库的多个 API）。
   * 实现 API 和一个能够对方法进行独立测试的 main() 函数。
 * 将一个程序的输出重定向为另一个程序的输入叫做管道。
-  * <img src="https://github.com/MrZhangKY/python--Algorithms-Fouth-Edition/blob/main/Graphs/1.png" style="zoom:10%;" />
+   <img src="https://github.com/MrZhangKY/python--Algorithms-Fouth-Edition/blob/main/Graphs/1.png" style="zoom:10%;" />
